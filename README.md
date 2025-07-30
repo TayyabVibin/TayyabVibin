@@ -63,7 +63,6 @@ Docs & Collab:         Redocly • Swagger/OpenAPI • Postman • Markdown • 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayyabVibin&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabVibin&theme=radical" />
 </p>
 
